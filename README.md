@@ -42,4 +42,4 @@ The Volunteer who is Conducting Tasks
 ```php
 $pdo = new PDO('mysql:host=127.0.0.1;port=3306;dbname=ngo','root', '');
 ```
-4. Open the url to your project e.g [http://localhost/NGO-Management-System](http://localhost/NGO-Management-System) 
+4. Open the url to your project e.g "[http://localhost/NGO-Management-System](http://localhost/NGO-Management-System)"
