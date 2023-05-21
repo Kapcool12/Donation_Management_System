@@ -35,7 +35,16 @@ The Volunteer who is Conducting Tasks
 * xampp
 * browser
 
+Screenshots Of the Project.
+
+![Screenshot (137)](https://github.com/Kapcool12/Donation_Management_System/assets/94378669/3cc98e92-7d52-4915-ab87-402781a60e0e)
+
+![Screenshot (138)](https://github.com/Kapcool12/Donation_Management_System/assets/94378669/f1e35be5-fa67-4de6-8feb-b14ef6b85c3e)
+
+![Screenshot (139)](https://github.com/Kapcool12/Donation_Management_System/assets/94378669/327cffc5-5869-471b-9705-a88cb70d315d)
+
 # Quick Guide
+
 1. Clone this repo to your documents root e.g under `c:\xampp\htdocs\` on windows
 2. Import the `ngo.sql` file to your database. (You can create a database called ngo using phpmyadmin and import this file into it)
 3. open `pdo.php` file and enter your database settings
